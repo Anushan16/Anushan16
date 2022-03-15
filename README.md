@@ -9,7 +9,7 @@
 
 - 📚 I'm studying computer science and mathematics at  **[Ryerson University](hhttps://www.ryerson.ca/programs/undergraduate/computer-science/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Advanced Javascript**
 
 - 💼 I’m looking for internship opportunites in the **Software Field**
 
